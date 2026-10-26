@@ -1,0 +1,4 @@
+interface:
+  display_name: "数学家教备课"
+  short_description: "规划小学至高中数学家教课程并生成分层练习与配套解析Word材料"
+  default_prompt: "使用 $math-tutor-prep 帮我规划数学家教课程，先确认授课范围、课次数、每次时长与学生年段。"
